@@ -1,4 +1,4 @@
-# VMware & Windows Server Administration Portfolio
+# VMware & Windows Server Administration
 
 Hi, I'm Logeswari — a VMware and Windows Server Administrator with hands-on experience managing vSphere environments, Active Directory, and day-to-day infrastructure operations.
 This repository contains a collection of PowerShell and PowerCLI scripts I've written to automate common administrative tasks: health checks, reporting, cleanup, provisioning, and alerting. I built these to demonstrate the kind of automation work I do (or want to do) in a production environment.
