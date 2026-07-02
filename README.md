@@ -18,10 +18,10 @@ This repository contains a collection of PowerShell and PowerCLI scripts I've wr
 | 2 | [Remove-OldSnapshots](https://github.com/Logeswari-99/snapshot-cleanup) | Finds and (optionally) removes old VM snapshots | VMware |
 | 3 | [Send-DatastoreAlert](https://github.com/Logeswari-99/datastore-usage-alert) | Alerts when datastore free space drops below threshold | VMware |
 | 4 | [New-VMFromTemplate](https://github.com/Logeswari-99/vm-provisioning) | Automates VM provisioning from a template | VMware |
-| 5 | [Get-ADUserReport](./05-ad-bulk-user-report) | Reports on stale, disabled, and expiring AD accounts | Active Directory |
-| 6 | [Send-PasswordExpiryNotice](./06-ad-password-expiry-notification) | Emails users before their AD password expires | Active Directory |
-| 7 | [Get-ServerHealthCheck](./07-windows-server-health-check) | Checks disk space, services, and event log errors on Windows Servers | Windows Server |
-| 8 | [Backup-GPOs](./08-gpo-backup) | Backs up all Group Policy Objects on a schedule | Active Directory |
+| 5 | [Get-ADUserReport](https://github.com/Logeswari-99/ad-bulk-user-report) | Reports on stale, disabled, and expiring AD accounts | Active Directory |
+| 6 | [Send-PasswordExpiryNotice](https://github.com/Logeswari-99/ad-password-expiry-notification) | Emails users before their AD password expires | Active Directory |
+| 7 | [Get-ServerHealthCheck](https://github.com/Logeswari-99/windows-server-health-check) | Checks disk space, services, and event log errors on Windows Servers | Windows Server |
+| 8 | [Backup-GPOs](https://github.com/Logeswari-99/gpo-backup) | Backs up all Group Policy Objects on a schedule | Active Directory |
 
 Each folder has its own README with usage instructions, parameters, and sample
 output.
